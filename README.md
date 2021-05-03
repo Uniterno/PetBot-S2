@@ -7,4 +7,4 @@ PetBot S2 includes the following improvements and changes:
 - Bye to bloating. PetBot was just a lot of ideas together for personal amusement, but that became a chaos at some point and it was too hard to keep up with everything. PetBot S2 aims to "Simple is best".
 - Starting from scratch, but with a lot more knowledge, basically improving every aspect of the bot.
 
-**However! Do note PetBot S2 is still a personal project for a personal community, not intended for a big infraestructure.**
+**However! Do note PetBot S2 is still a personal project for a personal community, not intended for a big and extended infrastructure and/or community.**
